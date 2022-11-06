@@ -1,0 +1,15 @@
+{
+  "name": "@valcosmos/vue3-template",
+  "version": "1.0.0",
+  "description": "valcosmos cli vue3 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
