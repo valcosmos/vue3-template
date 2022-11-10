@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>hello world</div>
+  <div>
+    <a-button type="primary">hello world</a-button>
+  </div>
 </template>
 
-<style scoped></style>
+<style lang="scss" scoped></style>
